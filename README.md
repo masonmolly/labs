@@ -1,2 +1,2 @@
 # labs
-Second year java labs
+University lab exercises.
